@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joshua
 - 👀 I’m interested in codind, website security and website development
 - 🌱 I’m currently learning Computer science at the University of Alabama
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
 <!---
